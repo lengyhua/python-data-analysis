@@ -121,3 +121,4 @@ cython_debug/
 
 # macOS metadata
 .DS_Store
+datasets/fec/P00000001-ALL.csv
